@@ -1,0 +1,4 @@
+raw_retail.csv
+outputs/
+__pycache__/
+*.pyc
